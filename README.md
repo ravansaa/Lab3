@@ -16,7 +16,7 @@
 
 ## Berikut Contoh program Nested Loop
 ![Gambar](Foto/SS5.png)
-## Berikur Contoh Program Menghitung nilai acak di bawa 0.5
+## Berikut Contoh Program Menghitung nilai acak di bawa 0.5
 ![Gambar](Foto/SS6.png)
 ## Berikut Hasil nya
 ![Gambar](Foto/SS7.png)
